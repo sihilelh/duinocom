@@ -1,0 +1,24 @@
+{
+  "name": "duinocom",
+  "version": "1.0.0",
+  "description": "A Simple Arduino Serial Data Reader & Writer ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sihilelh/duinocom.git"
+  },
+  "keywords": [
+    "Arduino",
+    "Serial Communication",
+    "DuinoCom"
+  ],
+  "author": "Sihilel Himasara",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sihilelh/duinocom/issues"
+  },
+  "homepage": "https://github.com/sihilelh/duinocom#readme"
+}
